@@ -32,6 +32,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-src/main/resources/templates/frontend/node_modules
-src/main/resources/templates/frontend/build
